@@ -1,1 +1,3 @@
+**Práctica 1. Determinación del tamaño de muestra y análisis de tallo y hoja**
 
+Introducción a los principios básicos del muestreo en biología pesquera, con énfasis en la representatividad de las tallas de peces provenientes de capturas comerciales. Mediante el análisis exploratorio de datos y la construcción de diagramas de tallo y hoja, se identifican distribuciones de frecuencia, clases de talla y posibles sesgos de muestreo, proporcionando herramientas para orientar la selección de ejemplares en estudios biológico-pesqueros.
