@@ -1,1 +1,3 @@
+**Práctica 06. Estimación de los parámetros de crecimiento de von Bertalanffy**
 
+Estimación de los parámetros del modelo de crecimiento de von Bertalanffy (L∞, k y t₀) mediante la aplicación de los métodos de Ford-Walford y Gulland. A partir de datos de longitud y edad de peces, se calculan los parámetros de crecimiento, se estiman las longitudes teóricas para cada grupo de edad y se construyen curvas de crecimiento, proporcionando herramientas para el análisis de la dinámica del crecimiento en poblaciones de peces. Si se utiliza una base de datos diferente, únicamente será necesario actualizar la sección 1 del Script P6, para garantizar su correcta ejecución.
