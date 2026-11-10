@@ -1,1 +1,4 @@
+**Práctica 03. Determinación de la edad en peces mediante métodos indirectos**
 
+Estimación de grupos de edad en poblaciones de peces mediante el análisis de distribuciones de frecuencias de talla, con énfasis en los métodos de Petersen y Bhattacharya. A través de la identificación de componentes gaussianos y la transformación logarítmica de las frecuencias, se estiman las longitudes medias de las posibles cohortes, proporcionando herramientas para el estudio de la estructura por edades y el crecimiento en poblaciones sujetas a explotación pesquera.
+La base de datos (P2 TALLAS TILAPIAS Petersen & Bhattacharya.xls) puede modificarse y adaptarse de acuerdo con los objetivos de enseñanza del docente. Si se utiliza una base de datos diferente, únicamente será necesario actualizar el nombre del archivo correspondiente en el script para garantizar su correcta ejecución.
