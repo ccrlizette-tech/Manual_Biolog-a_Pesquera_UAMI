@@ -1,1 +1,4 @@
+Práctica 07. Indicadores de la reproducción e índices relacionados con la madurez gonádica
 
+Evaluación de la biología reproductiva de peces mediante el análisis de indicadores de madurez sexual y parámetros reproductivos. A partir de datos biométricos y gonádicos, se determina la proporción de sexos, la talla mínima de madurez sexual, la talla de primera madurez (L50) y la distribución mensual de los estadios de madurez gonádica. Asimismo, se calculan los índices gonadosomático (IGS), hepatosomático (IHS) y el factor de condición (K), proporcionando herramientas para caracterizar los ciclos reproductivos y contribuir al manejo y conservación de los recursos pesqueros.
+La base de datos (LISA DATOS PARA PRÁCTICA.xls) puede modificarse y adaptarse de acuerdo con los objetivos de enseñanza del docente. Si se utiliza una base de datos diferente, únicamente será necesario actualizar el nombre del archivo correspondiente en el script para garantizar su correcta ejecución.
