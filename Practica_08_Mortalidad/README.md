@@ -1,1 +1,4 @@
+**Práctica 08. Estimación de la mortalidad total, natural y por pesca**
 
+Análisis de la mortalidad en poblaciones de peces mediante la estimación de los coeficientes de mortalidad total (Z), natural (M) y por pesca (F). A partir de datos de edad y abundancia, se construyen curvas de captura y se aplican modelos de regresión para estimar la mortalidad total y la supervivencia. Estos análisis proporcionan herramientas fundamentales para evaluar la dinámica poblacional, la presión pesquera y el aprovechamiento sostenible de los recursos pesqueros.
+La base de datos (DATOS PARA LA PRACTICA DE MORTALIDAD.csv) puede modificarse y adaptarse de acuerdo con los objetivos de enseñanza del docente. Si se utiliza una base de datos diferente, únicamente será necesario actualizar el nombre del archivo correspondiente en el script para garantizar su correcta ejecución.
