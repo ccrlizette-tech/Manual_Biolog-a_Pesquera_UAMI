@@ -1,1 +1,4 @@
+**Práctica 09. Selectividad de artes de pesca**
 
+Evaluación de la selectividad de artes de pesca mediante el análisis de distribuciones de frecuencias de talla y probabilidades acumuladas de captura. A partir de datos de peces capturados con diferentes aberturas de malla, se construyen curvas de selectividad y se estiman las longitudes correspondientes al 25, 50 y 75 % de captura acumulada (L25, L50 y L75). Estos análisis proporcionan herramientas para comparar el efecto del tamaño de malla sobre la composición de las capturas y contribuir al manejo sostenible de los recursos pesqueros.
+La base de datos (Selectividad Atarraya 2 a 4 DATOS (1).xls)puede modificarse y adaptarse de acuerdo con los objetivos de enseñanza del docente. Si se utiliza una base de datos diferente, únicamente será necesario actualizar el nombre del archivo correspondiente en el script para garantizar su correcta ejecución.
